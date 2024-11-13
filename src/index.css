@@ -66,14 +66,13 @@ img{
     margin: 0;
     font-size: 0.7rem;
     color: #B2B2B2;
-    padding-top: 2px;
+    padding-top: 1px;
 
 }
 
 .slick-dots li.slick-active button:before {
-    bottom: 50%;
     margin: 0;
     font-size: 0.7rem;
     color: white;
-    padding-top: 2px;
+    padding-top: 1px;
 }

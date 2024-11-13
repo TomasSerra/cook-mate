@@ -17,7 +17,7 @@ const settings = {
   speed: 400,
   cssEase: "ease-in-out",
   arrows: false,
-  dotsClass: 'slick-dots w-fit h-fit absolute bottom-[10px] left-0 right-0 m-auto gap-0',
+  dotsClass: 'slick-dots w-fit h-fit absolute bottom-[10px] left-0 right-0 m-auto gap-0 px-[2px]',
   className: 'w-full h-full',
 }
 
