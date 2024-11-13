@@ -33,7 +33,7 @@ function RecipePage() {
     };
 
   return (
-    <div className='bg-background w-full overflow-hidden'>
+    <div className='bg-background w-full overflow-y-scroll scrollbar-hide h-[100vh]'>
         <section className='pb-[12px] w-full flex flex-col gap-[12px] items-start'>
             <ImageCarrousel images={[Image1, 
             "https://statics.launion.digital/2024/06/crop/6675d73be4ede__940x620.webp",
